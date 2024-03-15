@@ -4,7 +4,7 @@
 hello();
 
 function hello() {
-    let str = "Hello STABLE, Git world!";
+    let str = "Hello DEV, Git world!";
 
 }
 
