@@ -4,6 +4,6 @@
 hello();
 
 function hello() {
-    let str = "Hello, Git world!";
+    let str = "Hello STABLE, Git world!";
 }
 
